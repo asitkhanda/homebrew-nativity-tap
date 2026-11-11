@@ -1,6 +1,6 @@
 cask "nativity" do
-  version "0.0.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  version "1.0.0"
+  sha256 "6e260e0da5e8adc5dd80453fe930e5be97103f42649b0269fa8dda2589546390"
 
   url "https://github.com/asitkhanda/nativity-macos-releases/releases/download/v#{version}/Nativity-#{version}.dmg"
   name "Nativity"
