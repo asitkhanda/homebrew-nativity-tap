@@ -7,7 +7,7 @@ cask "nativity" do
   desc "Voice typing in English and 22 Indian languages, on your Mac"
   homepage "https://speaknativity.com/"
 
-  depends_on macos: ">= :tahoe"
+  depends_on macos: ">= :sequoia"
   depends_on arch: :arm64
 
   app "Nativity.app"
