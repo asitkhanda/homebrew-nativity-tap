@@ -4,8 +4,8 @@ cask "nativity" do
 
   url "https://github.com/asitkhanda/nativity-macos-releases/releases/download/v#{version}/Nativity-#{version}.dmg"
   name "Nativity"
-  desc "Speech to text for Indian languages, on your Mac"
-  homepage "https://nativity.asit.space/"
+  desc "Voice typing in English and 22 Indian languages, on your Mac"
+  homepage "https://speaknativity.com/"
 
   depends_on macos: ">= :tahoe"
   depends_on arch: :arm64
